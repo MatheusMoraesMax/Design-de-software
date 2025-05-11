@@ -1,1 +1,5 @@
 [Formulario_Gerenciador_Estoque_Completo.docx](https://github.com/user-attachments/files/20151367/Formulario_Gerenciador_Estoque_Completo.docx)
+[Projeto com brmodelo + codigo java.zip](https://github.com/user-attachments/files/20151405/Projeto.com.brmodelo.%2B.codigo.java.zip)
+[projeto Scrum.docx](https://github.com/user-attachments/files/20151406/projeto.Scrum.docx)
+[ScrumFundamentalsCertified-MatheusMoraes-1074463 (1).pdf](https://github.com/user-attachments/files/20151407/ScrumFundamentalsCertified-MatheusMoraes-1074463.1.pdf)
+[SQL.zip](https://github.com/user-attachments/files/20151408/SQL.zip)
